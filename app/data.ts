@@ -78,14 +78,14 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     title: 'The fascinating technology direction of Japan',
     description: 'How AI is changing the way we design',
-    link: '/blog/how-ai-is-changing-the-way-we-design',
+    link: '/blog/the-fascinating-technology-direction-of-japan',
     uid: 'blog-1',
   },
   {
-    title: 'What I learned from my three years of college',
+    title: 'What I learned from my first three years of college',
     description:
       'A look back at my college years and what I learned',
-    link: '/blog/what-i-learned-from-my-three-years-of-college',
+    link: '/blog/what-i-learned-from-my-first-three-years-of-college',
     uid: 'blog-2',
   },
 ]
