@@ -17,8 +17,8 @@ export const metadata: Metadata = {
     canonical: '/'
   },
   title: {
-    default: 'Luis\' Portfolio',
-    template: '%s | Nim'
+    default: 'Luis Gabriel Capiral',
+    template: '%s | Luis'
   },
   description:  'Built with Nim',
 };
