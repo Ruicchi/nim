@@ -78,8 +78,8 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
-    title: 'The fascinating technology direction of Japan',
-    description: 'How AI is changing the way we design',
+    title: 'The fascinating technolology direction of Japan',
+    description: 'Their quiet innovation',
     link: '/blog/the-fascinating-technology-direction-of-japan',
     uid: 'blog-1',
   },
