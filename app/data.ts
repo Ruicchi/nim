@@ -39,11 +39,19 @@ export const PROJECTS: Project[] = [
   },
   {
     name: 'matching-stars',
-    description: 'Match 2 card game themed galaxy.',
-    link: 'https://github.com/Ruicchi/matching-stars',
+    description: 'Match 2 card game, with galaxy theme!',
+    link: 'https://github.com/ruicchi/matching-stars',
     video:
       'https://res.cloudinary.com/dfz0pi0zy/video/upload/v1770973467/Match_2_video_lgkoqg.mp4',
     id: 'project2',
+  },
+  {
+    name: 'sorting-visualizer',
+    description: 'A project for visualizing sorting algorithms.',
+    link: 'https://github.com/ruicchi/sorting-visualizer',
+    video:
+      'https://res.cloudinary.com/dfz0pi0zy/video/upload/v1772181118/Sorting_video_xsgqjr.mp4',
+    id: 'project3',
   },
 ]
 
